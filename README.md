@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUMMER267
+- 👋 Hi, I’m @mpedi
 - 👀 I’m interested in ...WEB development using HTML file,Java script and Css
 - 🌱 I’m currently learning ...programing
 - 💞️ I’m looking to collaborate on ...my web development project
